@@ -9,9 +9,7 @@ A machine learning project focused on the detection of sarcasm in news headlines
 - [Results](#results)
 - [Getting Started](#getting-started)
 - [How to Run](#how-to-run)
-- [Repository Structure](#repository-structure)
-- [Contributors](#contributors)
-- [References](#references)
+
 
 ---
 
